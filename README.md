@@ -1,5 +1,5 @@
-Course project for getting and cleaning
----------------------------------------
+Course project for getting and cleaning data
+--------------------------------------------
 
 Assumptions for script to work  
 1. The Samsung smartphone data is available in current working directory and it's layout is preserved. i.e common files are under current working directory and its training data is under train folder and test data under test folder respectively.  
